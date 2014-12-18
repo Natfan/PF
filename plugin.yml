@@ -1,0 +1,7 @@
+name: PF Edited By C
+version: dc77dfa
+description: Ebola was coded in C#
+authors:
+ - C
+main: net.frozenorb.foxtrot.buttplug
+depend: [ProtocolLib]
